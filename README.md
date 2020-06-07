@@ -8,7 +8,8 @@ __Required packages__
 + bs4 
 + html5lib
 
-**Output file:** 
+**Output file:**
+
 __spec.csv__ contains 10 features 
 - Model Name
 - Network Tech
