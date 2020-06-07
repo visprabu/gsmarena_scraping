@@ -4,9 +4,9 @@
 
 Includes only models with display size between 1.8 and 6.7 (both inclusive).
 
-**Required packages**
-    * bs4 
-    * html5lib
+__Required packages__
+    + bs4 
+    + html5lib
 
 **Output file:** 
     __spec.csv__ contains 10 features 
