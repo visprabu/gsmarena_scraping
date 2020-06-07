@@ -10,20 +10,20 @@ __Required packages__
 
 **Output file:** 
 __spec.csv__ contains 10 features 
--Model Name
--Network Tech
--Release
--Dimensions
--Weight
--Display Resolution
--Display Size
--OS
--Chipset
--CPU
--GPU
--Internal Memory
--Camera 1 Modules
--Camera 2 Modules
--WLAN
--GPS
--Battery Description
+- Model Name
+- Network Tech
+- Release
+- Dimensions
+- Weight
+- Display Resolution
+- Display Size
+- OS
+- Chipset
+- CPU
+- GPU
+- Internal Memory
+- Camera 1 Modules
+- Camera 2 Modules
+- WLAN
+- GPS
+- Battery Description
